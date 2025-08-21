@@ -1,0 +1,49 @@
+*{
+    background-color: rgb(154, 207, 254);
+    text-align: center;
+    color: gray;
+    padding: 0rem;
+    margin: 0;
+    border: 0;
+    display: flexbox;
+}
+
+h1{
+    font-size: 3rem;
+    padding: 4rem 0rem 0rem 1rem;
+    margin-top: 5rem;
+
+}
+
+#num-count{
+    font-size: 3rem;
+}
+
+button {
+    color: #131211;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: solid white 1px;
+    border-radius: 8px;
+    width: auto;
+    cursor: pointer;
+    display: inline;
+}
+
+#incriment {
+    background-color: rgb(17, 225, 225);
+}
+
+#save {
+    background-color: burlywood;
+    padding: auto;
+}
+
+h2 {
+    padding: 1rem 4rem ;
+
+}
+
+#saving-data{
+    padding: 0.5rem;
+}
